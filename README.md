@@ -2,7 +2,7 @@
 
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
-`Pymail-zh` 基于 [IMAPClient](https://github.com/mjs/imapclient) 封装了一些中文邮件的处理，以及一些 helper function。使用者可以轻松的拿到邮件的结构化数据。
+`Pymail-zh` 基于 [IMAPClient](https://github.com/mjs/imapclient) 封装了一些中文邮件的处理，以及一些 helper functions。使用者可以轻松的拿到邮件的结构化数据。
 同时，基于不同邮箱 imap server 的实现，封装了一些特殊的方法，例如移动邮件。
 
 Mail 对象含以下属性：
